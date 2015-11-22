@@ -1,0 +1,1 @@
+100/100 PHP solutions for codility lessons.
